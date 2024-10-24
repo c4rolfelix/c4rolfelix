@@ -16,7 +16,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=C4rolfelix&show_icons=true&theme=radical)
   <a href="https://github.com/c4rolfelix"><br></br>    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=c4rolfelix&theme=radical)](https://git.io/streak-stats)<br/>
-<h4> # ✨ Minhas Habilidades:
+<h4> # Minhas Habilidades ✨ 
 <br></br>
 <p> Estas são algumas das tecnologias e ferramentas que utilizo, por enquanto: </p>
   
