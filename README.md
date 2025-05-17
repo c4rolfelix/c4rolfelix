@@ -13,7 +13,8 @@
 <br></br>
 <p> Estas são algumas das tecnologias e ferramentas que utilizo, por enquanto: </p>
   
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,figma,git,github,bootstrap,cs,dotnet,visualstudio,vscode)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,cs,dotnet,bootstrap,figma,git,github,visualstudio,vscode,)](https://skillicons.dev)
+
 </div>
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D64798&height=120&section=footer"/>
