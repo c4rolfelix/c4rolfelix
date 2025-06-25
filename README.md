@@ -7,9 +7,7 @@
   <p>
     Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas pela PUC Minas. Em transição de carreira, estou dedicada a aprender e desenvolver habilidades na área de tecnologia. Estou constantemente buscando expandir meu conhecimento e aplicá-lo em projetos acadêmicos e futuros projetos profissionais.
     Seja bem-vindo ao meu GitHub, onde compartilho minha jornada e projetos em desenvolvimento.
-  </p><br>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c4rolfelix&layout=compact&theme=tokyonight)
+  </p>
   
   <h4>
     Minhas Habilidades ✨
@@ -18,10 +16,11 @@
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,dotnet,bootstrap,figma,git,github,visualstudio,vscode" alt="Minhas Habilidades" />
-  </a>
-</div>
+  </a><br><br>
 
-<br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c4rolfelix&layout=compact&theme=tokyonight)
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D64798&height=120&section=footer"/>
 
