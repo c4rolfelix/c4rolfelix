@@ -5,9 +5,10 @@
   <h2 align="center">✨ Olá, eu sou a Carolina Félix ✨</h2>
 
   <p align="center">
-    Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas pela PUC Minas.<br>
-    Em transição de carreira, estou dedicada a aprender e desenvolver habilidades na área de tecnologia.<br>
-    Seja bem-vindo ao meu GitHub, onde compartilho minha jornada e projetos em desenvolvimento.
+    Estudante de Análise e Desenvolvimento de Sistemas pela PUC Minas e profissional em crescimento na área de TI.  
+  Atualmente, atuo com suporte técnico em ERP e integrações (APIs, sistema de frente de loja e dados de varejo), o que me permite unir conhecimento técnico com foco em operação e negócio.  
+  Este repositório reflete minha trajetória: projetos, estudos e aprendizados práticos enquanto me aprofundo em tecnologia e processos de integração.  
+  Sinta-se à vontade para explorar, colaborar ou me chamar para trocar ideias!
   </p>
   
   <p align="center">
@@ -57,8 +58,9 @@
     <li>
       ✨ <strong><a href="https://github.com/c4rolfelix/treinofacil">TreinoFácil (01/2025)</a></strong> – App mobile para gerenciamento de treinos e progresso físico, voltado para alunos e personal trainers.
     </li>
+    <li> ✨ <strong><a href="https://github.com/c4rolfelix/luminis">Luminis Psicologia (02/2025)</a></strong> – Plataforma de conexão e agendamento online. Solução completa de gestão de perfis (Admin/Psicólogo), oferecendo um catálogo de profissionais com filtros dinâmicos e destaque por planos, com o objetivo de aumentar a captação de clientes.
+    </li>
   </ul>
-
 
 </div>
 
